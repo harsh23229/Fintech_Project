@@ -1,45 +1,45 @@
 # Robo-Advisory Firms in India: Industry Review & Strategic Roadmap (2025)
 
 ## 📄 Project Overview
-This repository contains a comprehensive industry analysis and strategic roadmap for the Indian Robo-Advisory sector as of **November 2025**. 
+This repository contains a comprehensive industry analysis and strategic roadmap for the Indian Robo-Advisory sector as of **November 2025**.
 
 The project was developed as a group assignment to analyze the shift from traditional distribution models to automated "Bionic" advisory services. It covers the impact of the **June 2025 SEBI Master Circular**, the rise of "White Box" algorithms, and a comparative study between the Indian and US wealth-tech markets.
 
 ## 🚀 Key Insights & Analysis
 The report provides deep-dive analysis into the following areas:
 
-* [cite_start]**Market Intelligence:** Analysis of the **$345 Million** Indian robo-advisory market (growing at 33% CAGR) and the surge in passive funds (Zerodha Fund House, etc.)[cite: 199, 200, 260, 261].
-* [cite_start]**Regulatory Landscape (2025):** Detailed breakdown of **SEBI's "White Box" vs. "Black Box"** algorithm classification, requiring "Black Box" models to register as Research Analysts[cite: 235, 236, 255].
-* [cite_start]**Strategic Roadmap:** A 36-month growth strategy for a hypothetical CEO, proposing a **"Bionic Advisory"** model that combines algorithmic efficiency with human expertise for HNI (High Net-Worth Individual) acquisition[cite: 339, 343].
-* [cite_start]**Tech & Governance:** Evaluation of risk profiling using behavioral ML models ("Model Drift" analysis) and compliance dashboards for transparent dispute resolution[cite: 327, 351, 357].
-* [cite_start]**Case Studies:** Strategic review of major market moves, such as **Groww’s acquisition of Fisdom** to enter the wealth management space[cite: 249, 250].
+* **Market Intelligence:** Analysis of the **$345 Million** Indian robo-advisory market (growing at 33% CAGR) and the surge in passive funds (Zerodha Fund House, etc.).
+* **Regulatory Landscape (2025):** Detailed breakdown of **SEBI's "White Box" vs. "Black Box"** algorithm classification, requiring "Black Box" models to register as Research Analysts.
+* **Strategic Roadmap:** A 36-month growth strategy for a hypothetical CEO, proposing a **"Bionic Advisory"** model that combines algorithmic efficiency with human expertise for HNI (High Net-Worth Individual) acquisition.
+* **Tech & Governance:** Evaluation of risk profiling using behavioral ML models ("Model Drift" analysis) and compliance dashboards for transparent dispute resolution.
+* **Case Studies:** Strategic review of major market moves, such as **Groww’s acquisition of Fisdom** to enter the wealth management space.
 
 ## 📂 Repository Contents
 
 | File Name | Description |
 | :--- | :--- |
-| **`Robo_Advisory...Report.pdf`** | **Full Industry Report (18 Pages).** professionally typeset in LaTeX. Includes executive summary, regulatory analysis, and the strategic CEO roadmap. |
+| **`Robo_Advisory...Report.pdf`** | **Full Industry Report (18 Pages).** Professionally typeset in LaTeX. Includes executive summary, regulatory analysis, and the strategic CEO roadmap. |
 | **`Presentation...Overview.pptx`** | **Strategic Deck (17 Slides).** Summary presentation covering market metrics, adoption drivers, and implementation timelines. |
-| **`LaTeX Source Code/`** | (Optional) Source `.tex` files demonstrating the document structure and formatting code. |
 
 ## 🛠 Tools & Methodology
-* **Overleaf / LaTeX:** The entire report was written and formatted programmatically using **LaTeX on Overleaf**. [cite_start]This ensured professional typesetting, automated reference management, and complex layout handling (custom borders, KPI tables, and TikZ diagrams)[cite: 431, 436, 437].
-* [cite_start]**Market Research:** Data aggregated from **Tracxn, SEBI Circulars (2024-25), and Statista**[cite: 452, 413, 416].
-* [cite_start]**Strategy Frameworks:** Utilized SWOT analysis and "Bionic" growth models to design the implementation roadmap[cite: 513].
+* **Overleaf / LaTeX:** The entire report was written and formatted programmatically using **LaTeX on Overleaf**. This ensured professional typesetting, automated reference management, and complex layout handling (custom borders, KPI tables, and TikZ diagrams).
+* **Market Research:** Data aggregated from **Tracxn, SEBI Circulars (2024-25), and Statista**.
+* **Strategy Frameworks:** Utilized SWOT analysis and "Bionic" growth models to design the implementation roadmap.
 
 ## 👥 Team & Contributions
-**Course:** Fintech & Financial Services | [cite_start]**Instructor:** Prof. Vinay Singh [cite: 156]
+**Course:** Fintech & Financial Services | **Instructor:** Prof. Vinay Singh
 
-* [cite_start]**Harsh Gupta:** Market research, competitive analysis, and authoring the **Strategic Roadmap (Chapter 7 & 9)**[cite: 154, 430, 433].
-* [cite_start]**Jerovin Floyd Vincent Joseph:** LaTeX formatting and report compilation on Overleaf[cite: 431].
-* [cite_start]**Priyanshu Mantoo & Dhruv Kumar:** Presentation design and visuals[cite: 429].
-* [cite_start]**Arjun Kumar:** Data gathering and competitor research[cite: 430].
+* **Harsh Gupta:** Market research, competitive analysis, and authoring the Strategic Roadmap (Chapters 7 & 9).
+* **Jerovin Floyd Vincent Joseph:** LaTeX formatting, report compilation, and document structuring on Overleaf.
+* **Priyanshu Mantoo:** Presentation design and creation of visuals/diagrams.
+* **Dhruv Kumar:** Presentation design, oral presentation delivery, and visual aids.
+* **Arjun Kumar:** Data gathering, competitor research, and oral presentation delivery.
 
 ## 📊 Key Visuals
 *(See `Report.pdf` for full diagrams)*
-* [cite_start]**Figure 2.1:** Projected AUM Growth (2020-2030)[cite: 227].
-* [cite_start]**Figure A.1:** Operational Workflow of a Robo-Advisor (TikZ Diagram)[cite: 410].
-* [cite_start]**Table 7.1:** Comparison of Fees & AUM (India vs. USA)[cite: 320].
+* **Figure 2.1:** Projected AUM Growth (2020-2030).
+* **Figure A.1:** Operational Workflow of a Robo-Advisor (TikZ Diagram).
+* **Table 7.1:** Comparison of Fees & AUM (India vs. USA).
 
 ---
 *Disclaimer: This project is for academic and educational purposes, analyzing the Fintech landscape as of late 2025.*
