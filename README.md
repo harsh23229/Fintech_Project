@@ -18,8 +18,9 @@ The report provides deep-dive analysis into the following areas:
 
 | File Name | Description |
 | :--- | :--- |
-| **`Robo_Advisory...Report.pdf`** | **Full Industry Report (18 Pages).** Professionally typeset in LaTeX. Includes executive summary, regulatory analysis, and the strategic CEO roadmap. |
-| **`Presentation...Overview.pptx`** | **Strategic Deck (17 Slides).** Summary presentation covering market metrics, adoption drivers, and implementation timelines. |
+| **`Robo_Advisory...Report.pdf`** | **Full Industry Report (18 Pages).** The core deliverable, professionally typeset in LaTeX. It includes the Executive Summary, detailed Regulatory Analysis (SEBI 2025), Competitive Comparison (India vs. USA), and the 3-Year Strategic Roadmap. |
+| **`Presentation...Overview.pptx`** | **Strategic Deck (17 Slides).** An executive summary designed for boardroom presentation. It visualizes the market growth trajectory, compares fee structures, and outlines the implementation timeline for the "Bionic" model. |
+| **`Robo_Advisory...Source.zip`** | **LaTeX Source Code.** Contains the raw `.tex` files, custom styling logic (for page borders and KPI tables), and TikZ code used to programmatically generate the PDF report. |
 
 ## 🛠 Tools & Methodology
 * **Overleaf / LaTeX:** The entire report was written and formatted programmatically using **LaTeX on Overleaf**. This ensured professional typesetting, automated reference management, and complex layout handling (custom borders, KPI tables, and TikZ diagrams).
